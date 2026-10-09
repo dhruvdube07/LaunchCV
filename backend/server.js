@@ -44,7 +44,7 @@ app.use('/mali', maliRoutes);
 const healthHandler = (req, res) => {
   res.status(200).json({ 
     status: 'healthy', 
-    project: 'ProfileForge API Server', 
+    project: 'LaunchCV AI API Server', 
     timestamp: new Date().toISOString(),
     env: process.env.VERCEL ? 'vercel-serverless' : 'local-node'
   });
@@ -74,7 +74,7 @@ if (isDirectRun) {
 if (isDirectRun) {
   app.listen(PORT, () => {
     console.log(`=========================================`);
-    console.log(`  ProfileForge Backend running on port ${PORT}`);
+    console.log(`  LaunchCV AI Backend running on port ${PORT}`);
     console.log(`=========================================`);
   });
 }

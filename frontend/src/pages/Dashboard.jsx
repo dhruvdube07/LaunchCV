@@ -636,7 +636,7 @@ export default function Dashboard() {
                 Welcome, {user.first_name || user.name || 'User'}! 🎉
               </h2>
               <p className="text-xs text-themeTextSecondary mt-1">
-                Your ProfileForge AI Studio account is verified and ready. Start crafting your personal brand!
+                Your LaunchCV AI Studio account is verified and ready. Start crafting your personal brand!
               </p>
             </div>
           </div>

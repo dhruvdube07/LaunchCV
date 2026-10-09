@@ -1,6 +1,6 @@
 /**
  * Dynamic UI Typography Engine
- * Provides real-time switching of typography personalities across the entire ProfileForge app.
+ * Provides real-time switching of typography personalities across the entire LaunchCV AI app.
  */
 
 export const UI_FONT_MODES = [

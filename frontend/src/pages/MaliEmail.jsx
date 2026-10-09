@@ -31,7 +31,7 @@ export default function MaliEmail() {
 
   // Preview & Custom Styling Console States
   const [showPreviewConsole, setShowPreviewConsole] = useState(false);
-  const [senderName, setSenderName] = useState('ProForge AI Mali Studio');
+  const [senderName, setSenderName] = useState('LaunchCV AI Mali Studio');
   const [selectedFont, setSelectedFont] = useState('Arial, Helvetica, sans-serif');
   const [selectedBgTheme, setSelectedBgTheme] = useState('#ffffff');
   const [isImmediate, setIsImmediate] = useState(true);
@@ -334,7 +334,7 @@ export default function MaliEmail() {
     setScheduleDate(todayStr);
     setScheduleHour(currentHourStr);
     setScheduleMinute(currentMinuteStr);
-    setSenderName(profile?.name ? `${profile.name} (Mali AI)` : 'ProForge AI Mali Studio');
+    setSenderName(profile?.name ? `${profile.name} (Mali AI)` : 'LaunchCV AI Mali Studio');
     setSelectedFont('Arial, Helvetica, sans-serif');
     setSelectedBgTheme('#ffffff');
     if (editorRef.current) {
@@ -351,7 +351,7 @@ export default function MaliEmail() {
     setEditingEmailId(email.id);
     setRecipient(email.toEmail);
     setSubject(email.subject);
-    setSenderName(email.senderName || 'ProForge AI Mali Studio');
+    setSenderName(email.senderName || 'LaunchCV AI Mali Studio');
     setSelectedFont(email.fontFamily || 'Arial, Helvetica, sans-serif');
     setSelectedBgTheme(email.bgTheme || '#ffffff');
     
@@ -1440,7 +1440,7 @@ export default function MaliEmail() {
                     <span className="font-bold text-themeTextSecondary w-16 shrink-0">From:</span>
                     <span className="text-themeText font-semibold flex items-center gap-1.5">
                       <span className="text-themePrimary bg-themePrimary/15 px-2 py-0.5 rounded font-black text-xxs tracking-wide">
-                        {senderName || 'ProForge AI Mali Studio'}
+                        {senderName || 'LaunchCV AI Mali Studio'}
                       </span>
                       &lt;playnest@zohomail.in&gt;
                     </span>

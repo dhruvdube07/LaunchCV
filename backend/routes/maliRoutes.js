@@ -55,7 +55,7 @@ router.post('/schedules', requireAuth, async (req, res) => {
       scheduledAt: isImmediate ? new Date().toISOString() : scheduledAt,
       status: 'pending',
       replyTo: userEmail,
-      senderName: senderName || 'ProForge AI Mali Studio',
+      senderName: senderName || 'LaunchCV AI Mali Studio',
       fontFamily: fontFamily || 'Arial, sans-serif',
       bgTheme: bgTheme || '#ffffff',
       createdAt: new Date().toISOString()

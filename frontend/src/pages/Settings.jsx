@@ -467,7 +467,7 @@ export default function Settings() {
                         Executive Engineering Architecture
                       </h3>
                       <p className="text-xs text-themeTextSecondary mt-0.5">
-                        State-of-the-art career assets created with Proforge AI's dynamic system.
+                        State-of-the-art career assets created with LaunchCV AI's dynamic system.
                       </p>
                     </div>
 
@@ -535,7 +535,7 @@ export default function Settings() {
               <h2 className="text-base font-black text-themeText border-b border-themeBorder pb-2">Advanced API Configuration (BYOK)</h2>
               
               <p className="text-xxs text-themeTextSecondary leading-relaxed">
-                Supply your own custom API keys. If keys are provided, Proforge AI will bypass default server keys and execute prompts using your credentials to bypass quota bounds.
+                Supply your own custom API keys. If keys are provided, LaunchCV AI will bypass default server keys and execute prompts using your credentials to bypass quota bounds.
               </p>
 
               <div className="space-y-4 pt-2">

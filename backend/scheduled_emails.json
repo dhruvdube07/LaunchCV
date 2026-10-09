@@ -40,5 +40,27 @@
     "bgTheme": "#c2f0d0",
     "createdAt": "2026-08-29T09:19:29.875Z",
     "sentAt": "2026-08-29T09:20:07.451Z"
+  },
+  {
+    "id": "mock-1-54d74f18-21d9-47b6-b4d1-72de552b92e2",
+    "userId": "54d74f18-21d9-47b6-b4d1-72de552b92e2",
+    "toEmail": "recruiter@techglobal.io",
+    "subject": "Follow-up: Senior Software Developer Interview",
+    "body": "<p>Hi Sarah,</p><p>Thank you for taking the time to discuss the Senior Developer opportunity yesterday. I really enjoyed hearing about the team's upcoming cloud migration projects.</p><p>I am very excited about the possibility of joining the team and look forward to hearing about the next steps.</p><p>Best regards,<br><strong>[Your Name]</strong></p>",
+    "scheduledAt": "2026-10-10T04:30:00.000Z",
+    "status": "pending",
+    "replyTo": "devildhruv2007@gmail.com",
+    "createdAt": "2026-10-09T15:49:33.596Z"
+  },
+  {
+    "id": "mock-2-54d74f18-21d9-47b6-b4d1-72de552b92e2",
+    "userId": "54d74f18-21d9-47b6-b4d1-72de552b92e2",
+    "toEmail": "careers@innovationlabs.co",
+    "subject": "Introduction: Passionate Full-Stack Engineer",
+    "body": "<p>Hello Hiring Team,</p><p>I have been following Innovation Labs' recent work in generative AI dashboards. With my background in building high-performance React applications, I wanted to reach out regarding potential opportunities.</p><p>You can <a href=\"http://localhost:5173/\" style=\"color: #3b82f6; text-decoration: underline;\">view my portfolio</a> to see some of my recent client-side React and Node.js work.</p><p>I would love to connect for a brief 10-minute introduction call.</p><p>Best,<br><strong>[Your Name]</strong></p>",
+    "scheduledAt": "2026-10-14T09:00:00.000Z",
+    "status": "pending",
+    "replyTo": "devildhruv2007@gmail.com",
+    "createdAt": "2026-10-09T15:49:33.596Z"
   }
 ]

@@ -111,7 +111,7 @@ export default function Hub() {
           </h1>
           
           <p className="text-xs sm:text-sm text-themeTextSecondary leading-relaxed">
-            Enter your career history once into <strong className="text-themeText font-semibold">Proforge AI</strong>, and dynamically synthesize ATS-ready resumes, responsive web portfolios, recruiter outreach, and LinkedIn thought leadership across all 6 specialized studios.
+            Enter your career history once into <strong className="text-themeText font-semibold">LaunchCV AI</strong>, and dynamically synthesize ATS-ready resumes, responsive web portfolios, recruiter outreach, and LinkedIn thought leadership across all 6 specialized studios.
           </p>
 
           {/* Quick status chips */}

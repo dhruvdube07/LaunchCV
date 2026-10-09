@@ -97,7 +97,7 @@ export default function Navbar() {
               </div>
               <div className="flex items-center gap-1 sm:gap-1.5">
                 <span className="font-heading font-black text-lg sm:text-xl tracking-tight text-themeText">
-                  Proforge
+                  LaunchCV
                 </span>
                 <span className="text-[9px] sm:text-[10px] px-1.5 sm:px-2 py-0.5 rounded-full bg-themePrimary/15 border border-themePrimary/30 text-themePrimary font-mono font-bold uppercase tracking-wider">
                   AI

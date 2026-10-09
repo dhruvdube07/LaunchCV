@@ -285,7 +285,7 @@ export default function Auth() {
                 <Sparkles className="h-5 w-5 text-white" />
               </div>
               <div className="flex items-center">
-                <span className="text-xl font-bold text-white tracking-tight">ProForge</span>
+                <span className="text-xl font-bold text-white tracking-tight">LaunchCV</span>
                 <span className="ml-1.5 text-[10px] px-1.5 py-0.5 rounded-full bg-themePrimary/20 text-themePrimary font-semibold uppercase tracking-wider">AI</span>
               </div>
             </div>
@@ -305,7 +305,7 @@ export default function Auth() {
 
           {/* Footer Info */}
           <div className="relative z-10 text-[11px] text-themeTextSecondary/60 font-medium">
-            © ProForge AI Studio.
+            © LaunchCV AI Studio.
           </div>
         </div>
 

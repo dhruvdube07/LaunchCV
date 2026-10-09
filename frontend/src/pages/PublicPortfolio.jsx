@@ -313,7 +313,7 @@ export default function PublicPortfolio() {
 
           {/* Footer branding */}
           <div className="text-center text-[10px] text-slate-500 pt-8 border-t border-slate-800/40">
-            Powered by Proforge AI Portfolio Generator. © 2026. All rights reserved.
+            Powered by LaunchCV AI Portfolio Generator. © 2026. All rights reserved.
           </div>
         </div>
       </div>
@@ -328,7 +328,7 @@ export default function PublicPortfolio() {
           
           {/* Terminal Banner */}
           <div className="border-b-2 border-[#39FF14] pb-4 flex justify-between items-center text-xs">
-            <span className="flex items-center gap-2"><Terminal className="h-4 w-4" /> PROFORGE_CLI v1.2</span>
+            <span className="flex items-center gap-2"><Terminal className="h-4 w-4" /> LAUNCHCV_CLI v1.2</span>
             <span>SYSTEM STATE: ACTIVE</span>
           </div>
 

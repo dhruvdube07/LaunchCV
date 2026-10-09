@@ -310,7 +310,7 @@ export default function CovoOutreach() {
               </div>
               <h3 className="text-sm font-bold text-themeText">Outreach Assets Canvas</h3>
               <p className="text-xs text-themeTextSecondary max-w-sm leading-relaxed">
-                Provide the company details, target role title, and optional job description on the left. Proforge AI will compose a full-length cover letter, a short LinkedIn message, and an elevator pitch automatically.
+                Provide the company details, target role title, and optional job description on the left. LaunchCV AI will compose a full-length cover letter, a short LinkedIn message, and an elevator pitch automatically.
               </p>
             </div>
           ) : (

@@ -148,7 +148,7 @@ export const generateDeterministicFallbackProfile = (userInput) => {
     tagline: `Results-driven ${profession} delivering high-impact solutions`,
     bio: text.length > 30 ? text : `Experienced ${profession} with a strong track record of success, innovative problem-solving, and cross-functional team leadership.`,
     goal: `Leverage core competencies to drive strategic value, accelerate delivery, and contribute to cutting-edge organizational initiatives.`,
-    contact_email: `${cleanNameNoSpace || 'candidate'}@proforge.ai`,
+    contact_email: `${cleanNameNoSpace || 'candidate'}@launchcv.ai`,
     contact_phone: '+1 (555) 019-2834',
     contact_location: 'San Francisco, CA',
     linkedin_url: `linkedin.com/in/${cleanNameNoSpace || 'profile'}`,

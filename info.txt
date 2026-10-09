@@ -1,7 +1,7 @@
 ========================================================================
-                      PROFORGE AI SYSTEM DOCUMENTATION
+                      LAUNCHCV AI SYSTEM DOCUMENTATION
 ========================================================================
-Project Name: Proforge AI
+Project Name: LaunchCV AI
 Sub-Suite:    Remo AI, Folio AI, Talo AI, Covo AI, Liko AI, Mali AI
 Description:   End-to-End Career Intelligence & Branding Suite
 Status:        ACTIVE & RUNNING (Local Development)
@@ -31,7 +31,7 @@ Status:        ACTIVE & RUNNING (Local Development)
 ------------------------------------------------------------------------
 2. DIRECTORY STRUCTURE
 ------------------------------------------------------------------------
-proforge/
+launchcv/
 ├── backend/
 │   ├── server.js               # Express server runner & CORS configuration
 │   ├── supabaseClient.js       # Supabase service role client initialization

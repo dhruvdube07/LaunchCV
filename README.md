@@ -1,7 +1,7 @@
-# Proforge AI 🚀
+# LaunchCV AI 🚀
 ### End-to-End Career Intelligence & Branding Suite
 
-Proforge AI is a premium, full-stack platform designed to connect candidate profiling, dynamic portfolio publishing, ATS scoring audits, recruiter outreach, and social brand building under a unified, state-of-the-art AI engine. 
+LaunchCV AI is a premium, full-stack platform designed to connect candidate profiling, dynamic portfolio publishing, ATS scoring audits, recruiter outreach, and social brand building under a unified, state-of-the-art AI engine. 
 
 ---
 
@@ -18,7 +18,7 @@ Proforge AI is a premium, full-stack platform designed to connect candidate prof
 ## 📂 Project Structure
 
 ```text
-proforge/
+launchcv/
 ├── backend/
 │   ├── server.js               # Express server runner
 │   ├── supabaseClient.js       # Supabase service role client
@@ -67,7 +67,7 @@ proforge/
 ---
 
 ## 🎨 Professional Themes System (Apple-Smooth)
-Proforge AI includes **10 premium visual themes** that dynamically randomize on initial site loads or user logins:
+LaunchCV AI includes **10 premium visual themes** that dynamically randomize on initial site loads or user logins:
 * **🌌 Luna Theme**: Deep obsidian & electric cyan highlights.
 * **🔮 Moon Theme**: Luminous slate & deep violet amethyst details.
 * **☀️ Solara Gold**: Charcoal black & warm golden-yellow solar accents.
@@ -84,7 +84,7 @@ Proforge AI includes **10 premium visual themes** that dynamically randomize on 
 ---
 
 ## 🛡️ Multi-Device Security Alerts
-Tracks user login signatures (IP + User-Agent headers). If a user accesses their account from **3+ distinct devices**, or triggers **3+ consecutive logins** on a specific signature, Proforge AI sends an automated security alert email with details (IP, timestamp, browser type) and an account lock action button.
+Tracks user login signatures (IP + User-Agent headers). If a user accesses their account from **3+ distinct devices**, or triggers **3+ consecutive logins** on a specific signature, LaunchCV AI sends an automated security alert email with details (IP, timestamp, browser type) and an account lock action button.
 
 ---
 
@@ -167,7 +167,7 @@ The client app boots on [http://localhost:5173](http://localhost:5173). All API 
 
 ## ☁️ Deploying to Vercel
 
-ProForge is pre-configured with root `vercel.json` and an automated serverless entry point (`api/index.js`) for seamless zero-config deployment on Vercel:
+LaunchCV AI is pre-configured with root `vercel.json` and an automated serverless entry point (`api/index.js`) for seamless zero-config deployment on Vercel:
 
 1. Push your changes to GitHub.
 2. In your [Vercel Dashboard](https://vercel.com/dashboard), click **"Add New Project"** and select your repository.

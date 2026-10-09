@@ -560,7 +560,7 @@ export default function LikoPost() {
                       <span className="text-[10px] text-themeTextSecondary">• 1st</span>
                     </div>
                     <p className="text-[10px] text-themeTextSecondary leading-tight truncate max-w-[280px]">
-                      {profile.profession || 'Professional'} | Proforge Member
+                      {profile.profession || 'Professional'} | LaunchCV Member
                     </p>
                     <div className="flex items-center gap-1 text-[9px] text-themeTextSecondary mt-0.5">
                       <span>2h</span>
